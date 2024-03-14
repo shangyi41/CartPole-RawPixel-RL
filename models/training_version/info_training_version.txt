@@ -1,0 +1,8 @@
+ 25000 ; avg score =  43.96
+ 50000 ; avg score = 100.97
+ 75000 ; avg score = 135.65
+100000 ; avg score = 215.89
+125000 ; avg score = 206.18
+150000 ; avg score = 297.84
+175000 ; avg score = 286.30
+200000 ; avg score = 272.12
